@@ -16,4 +16,5 @@ export interface Event {
     gpa: number
     image: string
     description: string
+    surname : string
   }
